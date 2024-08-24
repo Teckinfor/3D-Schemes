@@ -1,37 +1,37 @@
 # 3D-Schemes
 
-Bienvenue sur le repository **3D-Schemes** ! 🎨
+Welcome to the **3D-Schemes** repository! 🎨
 
-Ce dépôt regroupe l'ensemble de mes créations pour l'impression 3D. Tous les fichiers présents ici ont été conçus par moi-même avec passion et minutie, pour répondre à différents besoins créatifs ou utilitaires.
+This repository contains all of my 3D printing creations. Every file here has been designed by me with passion and precision to meet various creative or functional needs.
 
-## Contenu du repository
+## Repository Content
 
-Dans ce repository, vous trouverez :
+In this repository, you will find:
 
-- Des fichiers STL prêts à être imprimés
-- Des fichiers sources pour personnalisation (si applicable)
-- Des exemples d'utilisation ou de montages
+- STL files ready for printing
+- Source files for customization (if applicable)
+- Usage examples or assembly instructions
 
-Chaque fichier est accompagné d'une brève description pour expliquer son utilité, les paramètres d'impression recommandés, et d'éventuels conseils pour obtenir les meilleurs résultats.
+Each file is accompanied by a brief description explaining its purpose, recommended print settings, and tips to achieve the best results.
 
-## Utilisation
+## Usage
 
-Les fichiers contenus dans ce repository sont libres de téléchargement et d'utilisation. N'hésitez pas à les imprimer, les modifier ou les partager, tant que vous respectez les conditions d'utilisation précisées dans la licence.
+The files in this repository are free to download and use. Feel free to print, modify, or share them, as long as you respect the usage conditions outlined in the license.
 
-## Retrouver mes créations
+## Discover More Creations
 
-Si vous aimez mon travail et souhaitez découvrir d'autres créations, vous pouvez me retrouver sur ma page de créateur à l'adresse suivante :
+If you enjoy my work and want to explore more of my designs, you can find me on my creator page at the following link:
 
-**[Ma page de créateur sur Cults3D](https://cults3d.com/fr/utilisateurs/julien_senechal/fichiers-3d)**
+**[My Creator Page on Cults3D](https://cults3d.com/en/users/julien_senechal/3d-models)**
 
-Je mets régulièrement à jour cette page avec de nouvelles conceptions, alors n'hésitez pas à la consulter souvent.
+I regularly update this page with new designs, so be sure to check back often.
 
 ## Contributions
 
-Les contributions à ce repository sont les bienvenues ! Si vous avez des idées d'améliorations, des suggestions ou même des créations basées sur mes modèles, n'hésitez pas à ouvrir une issue ou une pull request.
+Contributions to this repository are welcome! If you have ideas for improvements, suggestions, or even creations based on my models, feel free to open an issue or a pull request.
 
 ## Contact
 
-Pour toute question ou demande particulière, vous pouvez me contacter via GitLab ou directement par [email](mailto:votreemail@example.com).
+For any questions or special requests, you can contact me via GitLab or directly by [email](mailto:youremail@example.com).
 
-Merci d'avoir visité **3D-Schemes** ! 🚀
+Thank you for visiting **3D-Schemes**! 🚀
